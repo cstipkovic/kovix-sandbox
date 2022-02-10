@@ -1,2 +1,2 @@
-# kovic-sandbox.github.io
+# kovic-sandbox
 Just my sandbox webpage
